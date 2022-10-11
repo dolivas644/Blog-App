@@ -10,8 +10,6 @@ const Home = () => {
                     </div>
                     <div className="flex-container">Vote feature</div>
                 </div>
-
-        
         </>
     )
 }
